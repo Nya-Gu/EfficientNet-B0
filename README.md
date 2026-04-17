@@ -15,12 +15,14 @@
 
 **[2] MnasNet: Platform-Aware Neural Architecture Search for Mobile** ([논문 링크](https://arxiv.org/abs/1807.11626))
 
-EfficientNet 모델 패밀리의 백본이 되는 EfficientNet-B0는 어떻게 설계된 걸까요? 바로 이 논문에서 제안한 방법론을 활용했다고 합니다. EfficientNet 논문에서도 해당 방법론을 간략히 다루고 있기 때문에 보다 자세한 내용이 궁금하시면 이 논문을 보면 될 것 같습니다.  
+EfficientNet 모델 패밀리의 백본이 되는 EfficientNet-B0는 어떻게 설계된 걸까요? 바로 이 논문에서 제안한 방법론을 활용했다고 합니다. EfficientNet 논문에서도 해당 방법론을 간략히 다루고 있기 때문에 보다 자세한 내용이 궁금하시면 이 논문을 보면 될 것 같습니다.
+
 EfficientNet의 MBConv Block이 궁금하신 분들도 이 논문을 참고하시면 될 것 같습니다.
 
 **[3] MobileNetV2: Inverted Residuals and Linear Bottlenecks** ([논문 링크](https://arxiv.org/abs/1801.04381))
 
-Inverted Bottleneck Residual block의 구조와 개념을 이해할 때 참고한 논문입니다. 2번 논문과 함께 구현에 많은 도움이 되었습니다.  
+Inverted Bottleneck Residual block의 구조와 개념을 이해할 때 참고한 논문입니다. 2번 논문과 함께 구현에 많은 도움이 되었습니다.
+
 초반에 직관적으로 이해하기 어려운 내용이 일부 있었습니다. 읽으면서 아직 공부가 더 필요한 것 같다고 느꼈습니다.
 
 **[4] Squeeze-and-Excitation Networks** ([논문 링크](https://arxiv.org/abs/1709.01507))
